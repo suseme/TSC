@@ -1,0 +1,6 @@
+pandas
+tensorflow-gpu
+keras
+pillow
+matplotlib
+pydot
